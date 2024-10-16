@@ -1,2 +1,2 @@
 # hello-world
-Mod 1
+Module 1
